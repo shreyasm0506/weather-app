@@ -26,11 +26,11 @@ for any city in the world using the OpenWeatherMap API.
 
 ## Sample Output
 Weather in Bengaluru, IN:
-Temperature  : 28.74°C
-Feels like   : 29.22°C
-Humidity     : 49%
-Condition    : Few Clouds
-Wind Speed   : 2.08 m/s
+-Temperature  : 28.74°C
+-Feels like   : 29.22°C
+-Humidity     : 49%
+-Condition    : Few Clouds
+-Wind Speed   : 2.08 m/s
 ## What I Learned
 - How to integrate REST APIs in Python
 - Parsing JSON responses
